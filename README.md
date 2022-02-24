@@ -4,7 +4,7 @@
 
 ## 解説
 詳細の解説は以下のQiitaを確認してください。
-[📘【kintone×Webhook】Slack通知ハンズオン](https://qiita.com/naberina/private/2ed40b3b16d364e40a91)
+[📘【kintone×Webhook】Slack通知ハンズオン](https://qiita.com/naberina)
 ## ディレクトリ構成
 ```
 .
